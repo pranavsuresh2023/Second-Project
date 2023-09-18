@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:rgba(0,64,128,255); 
+    color: white;
+    padding: 1%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+}

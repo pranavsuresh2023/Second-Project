@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.request-page{
+    margin-top: 6%;
+    height: calc(100vh - 80px);
+    overflow-y: auto;
+}
+.linktodash{
+    margin-right: 10%;
+}
+.boxshadow{
+    border: 2px solid #fff;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    padding: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 10%;
+}
+.mb-3 button{
+    color: white;
+    background-color: rgba(0,64,128,255);
+    border: none;
+    outline: none;
+}

@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.dashboard-page{
+    margin-top: 8.5%;
+    
+}
+h2{
+    text-decoration: underline;
+    text-decoration-color:gold;
+    margin-left: 10%;
+}
+.createbtn{
+    margin-right: 10%;
+}
+.createbtn button{
+    background-color: rgba(0,64,128,255);
+}
+.btns{
+    width: 33%;
+    height: 50px;
+    border: none;
+    border-radius: 0px;
+}
+.dashbox{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 1%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    padding: 2%;
+}
